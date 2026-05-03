@@ -1,0 +1,9 @@
+This is a sample text file for testing the text extraction functionality.
+
+The system should be able to extract this text and return it via the API.
+
+This is a test paragraph with multiple sentences. The text extraction service should handle this properly.
+
+Another paragraph to test the extraction capabilities. The system should preserve the paragraph structure and return clean text.
+
+End of test file.
