@@ -239,4 +239,3 @@ python manage.py test tests
 
 ---
 
-*This file is tailored to the repository layout and behavior as of the last update. If you rename models, default models, or split the frontend, update **Project Structure**, **API Endpoints**, and **Environment Variables** to match.*
