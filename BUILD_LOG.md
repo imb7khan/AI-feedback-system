@@ -276,4 +276,4 @@ How this codebase was specified and grown (aligned with the prompts you used ste
 
 ---
 
-*Last updated to match repository layout and behavior. Update tables when endpoints or defaults change.*
+
